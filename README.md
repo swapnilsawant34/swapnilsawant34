@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-👋Hello I'm Swapnil, Welcome to my GitHub profile!<br>🌱 I’m currently learning Golang, Spring Boot<br>💬 Ask me about Java, Advance Java, MySQL, Spring Boot.<br> 📧You can reach out to me at 29swapnilsawant@gmail.com
+👋Hello I'm Swapnil, Welcome to my GitHub profile!<br>🌱 I’m currently learning Spring, Spring Boot<br>💬 Ask me about Java, Advance Java, MySQL, Spring Boot.<br> 📧You can reach out to me at 29swapnilsawant@gmail.com
 
 
 ## 🌐 Socials:
