@@ -24,8 +24,8 @@
 <!--### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=swapnilsawant34&limit=5&theme=dark&combine_all_yearly_contributions=true) -->
 
-### 😂 Dev Meme
-<img src='https://memer-new.vercel.app/' style="height: 400px;"/>
+<!-- ### 😂 Dev Meme
+<img src='https://memer-new.vercel.app/' style="height: 400px;"/>-->
 
 ---
 [![](https://visitcount.itsvg.in/api?id=swapnilsawant34&icon=9&color=1)](https://visitcount.itsvg.in)
